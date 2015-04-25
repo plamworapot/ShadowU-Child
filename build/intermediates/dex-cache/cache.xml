@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-0992e8396550ca26f2116e9cd629faaae1c0cfaa.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-2067d50600c5932e3ef6598e044a46bb7111cff3.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-65a48e27b36716d15a68b35ca89f88369e71d9ee.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-2809e641a17760f2e0b633bf93b65222c5ca55bd.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f7188fc9a524a8f965b5aeab74879036f0431080">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-0b9ae3dc173513678c1f2a5b5d98daa826550c35.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-71e3afa2a07b838335c4df1763b0b45f4dd1ec99.jar" />
+    </item>
+    <item
+        jar="C:\Users\plamworapot\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-be1f8673b5f5386667100cc6bf9f88a6289cb963.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-714401c4ef8cbb19b83ffebbe1187255cd93ed81.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\ParseAndroidUI\ParseLoginUI\unspecified\libs\Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\Parse-1.9.1-f73752f47283b40feff3f78766f732d3e75a97d9.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-097fce9b18f8a1545ba1f906ccb5fef0de7e3986.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-642b6557331eedfc659f9f3923d5e7d0f6ca8b68.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-4e4ed8a4613d4d5e07dc616ccafc62d61b027dcd.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-6d2927f34f4e32dddf798b618236e91cdbb6cc54.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-9ba4e5e305885a5be31b6e24093462583025a838.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-376123970754c0880c94dfc6b8475e0138362b7b.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-05d01ad71212e066411fafca685589c8ba3044d9.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\ParseAndroidUI\ParseLoginUI\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="97f4b5d4f675ac96a8f90ff1036f4a7301703278">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-237cdf7ce0c4243743991a7224e7859b24a19c76.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-0ed7351432dd20178c5b70264abc7f4f343d1fb6.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\ParseAndroidUI\ParseLoginUI\unspecified\libs\ParseFacebookUtilsV4-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f78e5603a5ecac14eaa34a763c9165444a681193">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\ParseFacebookUtilsV4-1.9.1-4283b0a33f26309f11f7efae892a3a7774ff7b58.jar" />
+    </item>
+    <item
+        jar="C:\Users\plamworapot\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-589d67d8fbf6c238ac88250e8c32974e9b6b0add.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-cee1290e104b7b6108d7048a21167c7c4e7b5e48.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-2f3263faae3f8fd2e5d683f7f881e1ef95422477.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-ca28d50a9332cf47d9889f1a0b9b3b066d8fc19b.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-9d50833d20364e1dd1f8257f6a1b5aa490087f89.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-8876bdcdbaf6f6614437752ccae308d1e0e08dd8.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-1705c6a7235fe260fcb2afa787c00c1a8d8d9ec5.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-bc4b9b263a043465a0c43b74cdc5716cb405fc37.jar" />
+    </item>
+    <item
+        jar="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="E:\project\Shadowyou\Shadow-Child\ParseLoginSampleBasic\build\intermediates\pre-dexed\debug\classes-b394c80f3a04364c7660114deda7ea267a432669.jar" />
+    </item>
+
+</items>
